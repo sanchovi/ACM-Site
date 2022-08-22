@@ -1,0 +1,25 @@
+.hideAnswer {
+	display: none;
+}
+
+.faq_question {
+	cursor: pointer;
+	color: #444;
+}
+
+.faq_question:Hover {
+	color:#c15b05;
+}
+
+img {
+	display: block!important;
+	margin-left: auto!important;
+	margin-right: auto!important;
+	width: auto!important;
+}
+
+h3 {
+	text-align: center!important;
+	border-bottom: none!important;
+	font-size: larger;
+}
